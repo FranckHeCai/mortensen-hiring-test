@@ -15,3 +15,19 @@
   font-weight: 700;
   font-style: normal;
 }
+
+@theme {
+  --font-gilroy: 'Gilroy', sans-serif;
+  --color-black: #2e2e2e; 
+  --color-gray100: #f6f6f6;
+  --color-gray200: #888888;
+  --color-gray300: #3c3c3c;
+}
+
+.slide-menu{
+  transform: translateX(100%);
+}
+
+.slide-menu.open{
+  transform: translateX(0);
+}

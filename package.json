@@ -4,7 +4,7 @@
   "description": "hiring test for Mortensen",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
+    "build:styles": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
