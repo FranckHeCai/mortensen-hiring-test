@@ -1,0 +1,29 @@
+{
+  "name": "mortensen-hiring-test",
+  "version": "1.0.0",
+  "description": "hiring test for Mortensen",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranckHeCai/mortensen-hiring-test.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "tailwind"
+  ],
+  "author": "Franck Cai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranckHeCai/mortensen-hiring-test/issues"
+  },
+  "homepage": "https://github.com/FranckHeCai/mortensen-hiring-test#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.10",
+    "tailwindcss": "^4.1.10"
+  }
+}
