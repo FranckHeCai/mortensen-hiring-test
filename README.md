@@ -26,7 +26,7 @@ This repository contains the solution for the Mortensen front-end hiring test.
    ```
 
 3. **Open `src/index.html` in your browser**  
-   For best results, use a local server (e.g., `Live Server`) or open the html file in your browser.
+   Or use a live server extension on VSCode (e.g., `Live Server`).
 
 ## Folder Structure
 
